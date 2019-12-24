@@ -1,4 +1,4 @@
-# HSML (Hierarchically Structured Meta-learning)
+# ARML (Automated Relational Meta-learning)
 
 ## About
 Source code<a href="#note1" id="note1ref"><sup>1</sup></a> of the paper [Automated Relational Meta-learning](https://openreview.net/forum?id=rklp93EtwH)
