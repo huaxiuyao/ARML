@@ -1,5 +1,5 @@
 # ARML (Automated Relational Meta-learning)
-Code will be released before April
+Code will be released on April
 
 ## About
 Source code of the paper [Automated Relational Meta-learning](https://openreview.net/forum?id=rklp93EtwH)
