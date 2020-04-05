@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+python main.py --datasource=artmulti --metatrain_iterations=60000 --meta_batch_size=4 --update_batch_size=1 --update_lr=0.01 --num_updates=5 --num_classes=5 --datadir=xxx --logdir=xxx --num_filters=32 --hidden_dim=128 --emb_loss_weight=0.01 --test_set=True --num_vertex=8
+python main.py --datasource=artmulti --metatrain_iterations=60000 --meta_batch_size=4 --update_batch_size=1 --update_lr=0.01 --num_updates=5 --num_classes=5 --datadir=xxx --logdir=xxx --num_filters=32 --hidden_dim=128 --emb_loss_weight=0.01 --test_set=True --num_vertex=8 --train=False --test_dataset=xxx --test_epoch=xxx

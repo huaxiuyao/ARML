@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+python main.py --datasource=2D --sync_group_num=6 --num_vertex=6 --metatrain_iterations=70000 --norm=None --update_batch_size=10 --update_batch_size_eval=10 --num_updates=5 --logdir=xxx --emb_loss_weight=0.01 --hidden_dim=40 --num_classes=2
+python main.py --datasource=2D --sync_group_num=6 --num_vertex=6 --metatrain_iterations=70000 --norm=None --update_batch_size=10 --update_batch_size_eval=10 --num_updates=5 --logdir=xxx --emb_loss_weight=0.01 --hidden_dim=40 --num_classes=2 --train=False --test_epoch=xxx
