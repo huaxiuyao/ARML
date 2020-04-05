@@ -26,7 +26,7 @@ Plain-Multi and Art-Multi are released in [Google Drive](https://drive.google.co
 * Numpy 1.15+
 
 ### 2-D Regression
-Please see the bash file in /toygroup_bash for hyperparameter settings
+Please see the bash file in /2D_bash for hyperparameter settings
 
 ### Plainmulti
 Please see the bash file in /plainmulti_bash for hyperparameter settings
