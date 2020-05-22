@@ -22,7 +22,7 @@ Plain-Multi and Art-Multi are released in [Google Drive](https://drive.google.co
 ## Usage
 ### Dependence
 * python 3.*
-* TensorFlow 1.0+
+* TensorFlow 1.10+
 * Numpy 1.15+
 
 ### 2-D Regression
